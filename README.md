@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I'm Ilana. I'm a specialist in research and evaluation and am passionate about how I can contribute to societal improvement and combat climate change through my work. 
 As a data enthusiast and aspiring data scientist, I'm excited to combine my research and evaluation skills with my newfound expertise in data science to tackle pressing global challenge.
 
-![Data_Climate](https://github.com/ilanatr/ilanatr/blob/main/pexels-google-deepmind-18069423.jpg)
+<img src="https://github.com/ilanatr/ilanatr/blob/main/pexels-google-deepmind-17485679.jpg" width="300" height="400">
 
 ## About Me
 - 💼 I am a researcher and evaluator with diverse thematic expertise across sustainability, innovation, and social inclusion. I have worked with leading international research agencies, consultancies, and NGOs designing complex, large scale projects. I am motivated by a desire to contribute to both societal improvement and combat climate change, leveraging my analytical skills to develop impactful insights for a sustainable future. 
