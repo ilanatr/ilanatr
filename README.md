@@ -16,7 +16,7 @@ I'm always open to collaboration and conversation! Whether you're interested in 
 - 📧 Email: ilanatr@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/ilanatr/
 
-![Data_Climate](GitHub Photo.webp)
+<!--[Data_Climate](GitHub Photo.webp)
 
 <!--
 **ilanatr/ilanatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
