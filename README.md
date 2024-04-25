@@ -15,8 +15,9 @@ As a data enthusiast and aspiring data scientist, I'm excited to combine my rese
 ## Get in Touch
 I'm always open to collaboration and conversation! Whether you're interested in discussing data-driven solutions to global challenges or just want to connect, feel free to reach out:
 
-- 📧 Email: ilanatr@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/ilanatr/
+- 📧 [Email](ilanatr@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/ilanatr/)
+- 📁 [My professional projects](https://github.com/ilanatr/ilanatr/blob/main/Long%20list%20of%20research%20and%20evaluation%20past%20projects.pdf)
 
 <!--[Data_Climate](GitHub Photo.webp)
 
