@@ -17,8 +17,8 @@ I'm always open to collaboration and conversation! Whether you're interested in 
 
 - 📧 [Email](ilanatr@gmail.com)
 - 💬 [LinkedIn](https://www.linkedin.com/in/ilanatr/)
-- 📁 [My professional projects](https://github.com/ilanatr/ilanatr/blob/main/Long%20list%20of%20research%20and%20evaluation%20past%20projects.pdf)
-- 📁 [My personal projects](https://drive.google.com/file/d/1aBoTsz9RIN3NpvmW-KRzylpOisBDQ4JZ/view?usp=sharing)
+- 📁 [My professional projects](https://drive.google.com/file/d/1aBoTsz9RIN3NpvmW-KRzylpOisBDQ4JZ/view?usp=sharing)
+- 📁 [My personal projects](https://github.com/ilanatr/Project_Portfolio)
 
 <!--[Data_Climate](GitHub Photo.webp)
 
