@@ -30,7 +30,7 @@ Part of Save the Children’s European response to the Ukraine crisis. The resea
 
 Phase II of Save the Children’s “[Why Children Stay](https://resourcecentre.savethechildren.net/document/why-children-stay/)” series, this study explores the decision making factors involved for children living in highly vulnerable contexts, specifically Northern Central America (El Salvador, Honduras and Guatemala) where gang violence and murder are prevalent. The study explored commonalities and differences with Phase I of the research which focused on children living in areas with high levels of migration in Burkina Faso, Ethiopia and Zambia. Phase II involved interviews with 122 children in eight locations in Northern Central America. This was complemented by 39 interviews with a variety of other stakeholders including parents, representatives of national and international civil society organisations, community leaders and government authorities.
 
-### [Research study on climate-related displacement](https://resourcecentre.savethechildren.net/document/walking-into-the-eye-of-the-storm-how-the-climate-crisis-is-driving-child-migration-and-displacement/) (2020-2021)
+### [Walking into the Eye of the Storm. A research study on climate-related displacement](https://resourcecentre.savethechildren.net/document/walking-into-the-eye-of-the-storm-how-the-climate-crisis-is-driving-child-migration-and-displacement/) (2020-2021)
 **_Save the Children International_**
 <br>_Role: Research Lead_
 
