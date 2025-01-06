@@ -2,7 +2,7 @@
 
 ### [Study on the development effects of debt funds: high level findings on debt fund managers' approaches to impact management and identification of opportunities for more effective and efficient impact analysis on debt funds by DEG and OeEB](https://www.oe-eb.at/dam/jcr:2cf65694-ce05-4ada-b9ec-508913acdce7/Summary_Debt_Fund_Study_Final.pdf) (2023)
 **_DEG and OeEB_** <br>
-_Role: Project Manager_
+_Role: Project Manager (& Proposal Lead)_
 
 The purpose of this study was to support the German Investment Corporation (DEG) and the Development Bank of Austria (OeEB) to develop a systematic and efficient approach to capture the development effects of their debt funds and their partner institutions within their soon to be updated impact management system DERa (DERa 2.0). The specific components of the study were i) conduct a general analysis of debt funds and their impact management including E&S and systems; ii) identify intersections between debt fund data and data needed for DERa; iii) develop a concept for integration of debt funds’ development effects into DERa and iv) derive recommendations for DEG and OeEB on the implementation approach, potential limitations and level of burden imposed on fund managers, funds and PIs.
 
