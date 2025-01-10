@@ -58,7 +58,7 @@ An assessment on the application of Directive 2014/40/EU concerning the manufact
 **_UK Marine Management Organisation (MMO)_**
 <br>_Role: Project Manager_
 
-Evaluation of the MMO’s enhanced budget which replaces the EU Common Fisheries Policy to increase control and enforcement activity in order to reduce illegal fishing in English waters. The evaluation in- volved a mixed-method approach comprising desk-based review, depth-interviews with key stakeholders, a survey of fishers and port-based case studies.
+Evaluation of the MMO’s enhanced budget which replaces the EU Common Fisheries Policy to increase control and enforcement activity in order to reduce illegal fishing in English waters. The evaluation involved a mixed-method approach comprising desk-based review, depth-interviews with key stakeholders, a survey of fishers and port-based case studies.
 
 ### [Process and Early Impact Evaluation of the 5G Testbeds and Trials Programme](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/941810/2020-09-30_-_Programme_Initial_Evaluation_-_Main_Report_-_Final__1___2___1___1_.pdf) (2019-2020)
 **_UK Department for Digital, Culture, Media & Sports (DCMS)_**
