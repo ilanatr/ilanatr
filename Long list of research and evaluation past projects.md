@@ -52,7 +52,7 @@ Monitoring and Evaluation of a tests and trials programme funding land managers 
 **_Directorate-General for Health and Food Safety (DG SANTE)_**
 <br>_Role: Core Study Team - Evaluation Expert_
 
-An assessment on the application of Directive 2014/40/EU concerning the manufacture, presentation and sale of tobacco and related products (Tobacco Products Directive). The study comprised a literature re- view, mapping and analysis of data from Special Eurobarometer Surveys and Euromonitor International, stakeholder consultations with health experts, case studies and an online mystery shopping exercise.
+An assessment on the application of Directive 2014/40/EU concerning the manufacture, presentation and sale of tobacco and related products (Tobacco Products Directive). The study comprised a literature review, mapping and analysis of data from Special Eurobarometer Surveys and Euromonitor International, stakeholder consultations with health experts, case studies and an online mystery shopping exercise.
 
 ### [Evaluation of Fisheries Control and Enforcement](https://assets.publishing.service.gov.uk/media/6530e74692895c000ddcba1d/Fish_CE_Evaluation_-_FinalRevised_Nov2020_Evidence_subgroup.pdf) (2019-2020)
 **_UK Marine Management Organisation (MMO)_**
@@ -100,7 +100,7 @@ The What Works Fund aimed at developing an evidence base of what works well and 
 **_UK Department for Business, Energy & Industrial Strategy (BEIS)_**<br>
 _Role: Project Manager (& Proposal Lead)_
 
-The UK Climate Investment Pilot sought to mobilise private finance in Renewable Energy and Energy Efficient projects within middle-income countries. The approach built on a broad range of secondary and primary evidence collection, including (1) documentation review and familiarisation interviews; (2) stake- holder consultations with UKCI and GIB, the investment community, and sector experts; (3) project level case studies; and a sector and country bench marking. The evaluation framework was reviewed by an external peer reviewer who commended its thoroughness and clarity of approach. Government officials published a redacted version to demonstrate best practice in theory-based evaluation design.
+The UK Climate Investment Pilot sought to mobilise private finance in Renewable Energy and Energy Efficient projects within middle-income countries. The approach built on a broad range of secondary and primary evidence collection, including (1) documentation review and familiarisation interviews; (2) stakeholder consultations with UKCI and GIB, the investment community, and sector experts; (3) project level case studies; and a sector and country bench marking. The evaluation framework was reviewed by an external peer reviewer who commended its thoroughness and clarity of approach. Government officials published a redacted version to demonstrate best practice in theory-based evaluation design.
 
 ### [Year 3 Evaluation of the Liverpool Waves of Hope Programme](https://www.ipsos.com/sites/default/files/ct/publication/documents/2018-05/liverpool-waves-of-hope-evaluation-year-3.pdf) (2018)
 **_Plus Dane Housing_**<br>
@@ -112,7 +112,7 @@ Liverpool Waves of Hope was part of Big Lottery Fund’s Fulfilling Lives initia
 **_German Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety (BMUB) & UK Department of Business, Energy and Industrial Strategy (BEIS)_**<br>
 _Role: Project Manager (& Proposal Lead)_
 
-A programme aimed at mobilising private finance to promote renewable energy and energy efficiency pro- jects in middle income countries. The primary focus of the evaluation was an assessment of the effectiveness and relevance of GCPF’s activities on low carbon development, identifying efficiencies (and inefficiencies) in processes and providing learning for future. This relied on a mixed method, theory-based evaluation design, collecting primary and secondary evidence from performance and monitoring information, operational and market benchmarking, stakeholder consultations and case studies.
+A programme aimed at mobilising private finance to promote renewable energy and energy efficiency projects in middle income countries. The primary focus of the evaluation was an assessment of the effectiveness and relevance of GCPF’s activities on low carbon development, identifying efficiencies (and inefficiencies) in processes and providing learning for future. This relied on a mixed method, theory-based evaluation design, collecting primary and secondary evidence from performance and monitoring information, operational and market benchmarking, stakeholder consultations and case studies.
 
 ### [Evaluation of the Uniformed Youth Social Action Funds (UYSAF) 1 & 2](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561161/Evaluation_of_the_Uniformed_Youth_Social_Action_Fund_1.pdf) (2016)
 **_Youth United Foundation_**<br>
