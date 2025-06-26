@@ -1,5 +1,11 @@
 ## Long list of research and evaluation projects (chronological)
 
+### Final Evaluation of the Ambitious, Radical, Inclusive, Economic Statistics (ARIES) Programme (2025)
+**_The Office for National Statistics (ONS)_** <br>
+_Role: Evaluation Project Director_
+
+ONS launched the ARIES programme to sustainably improve the quality, timeliness and granularity of the ONS economic statistics through best use of available data and technology. The evaluation of the ARIES programme comprised a process evaluation and a qualitative impact evaluation of its six core projects, drawing on realist-informed approaches and outcome harvesting, designed to understand both how the programme was delivered and the factors driving its outcomes. The study comprised collation of primary data, including focus groups and depth interviews with participants within the ONS and external to the ONS triangulated with secondary evidence, providing a comprehensive base for programme-level insights.
+
 ### [Study on the development effects of debt funds: high level findings on debt fund managers' approaches to impact management and identification of opportunities for more effective and efficient impact analysis on debt funds by DEG and OeEB](https://www.oe-eb.at/dam/jcr:2cf65694-ce05-4ada-b9ec-508913acdce7/Summary_Debt_Fund_Study_Final.pdf) (2023)
 **_DEG and OeEB_** <br>
 _Role: Project Manager (& Proposal Lead)_
