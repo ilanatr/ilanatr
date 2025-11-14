@@ -1,6 +1,6 @@
 ## Long list of research and evaluation projects (chronological)
 
-### Final Evaluation of the Ambitious, Radical, Inclusive, Economic Statistics (ARIES) Programme (2025)
+### [Final Evaluation of the Ambitious, Radical, Inclusive, Economic Statistics (ARIES) Programme](https://natcen.ac.uk/publications/evaluation-ons-aries-programme) (2025)
 **_The Office for National Statistics (ONS)_** <br>
 _Role: Evaluation Project Director_
 
@@ -137,3 +137,4 @@ An evaluation to assess the impact of Government funded Apprenticeship Hub activ
 <br>_Role: Project Executive_
 
 The study aimed to assess the overall impact of debt advice, the relative effectiveness of different advice channels (telephone, face-to-face, online, post, and printed materials), and the comparison between free and paid advice. A survey was carried out of 4,020 individuals who had reported being in debt since 2006, focusing on their experiences and the manageability of their debt over time. A follow-up survey of 1,247 respondents who had sought advice and maintained manageable debt further explored their motivations and outcomes. The research utilised logistic regression analysis to determine the effectiveness of debt advice by examining the transition time from unmanageable to manageable debt.
+
